@@ -6,11 +6,55 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: SickleCliff
+    100004: SickleCliff.001
+    100006: SickleCliff.002
+    100008: SickleCliff.003
+    100010: SickleCliff.004
+    100012: SickleCliff.005
+    100014: SickleCliff.006
+    100016: SickleCliff.007
+    100018: SickleCliff.008
     400000: //RootNode
+    400002: SickleCliff
+    400004: SickleCliff.001
+    400006: SickleCliff.002
+    400008: SickleCliff.003
+    400010: SickleCliff.004
+    400012: SickleCliff.005
+    400014: SickleCliff.006
+    400016: SickleCliff.007
+    400018: SickleCliff.008
     2100000: Greybox
     2300000: //RootNode
+    2300002: SickleCliff
+    2300004: SickleCliff.001
+    2300006: SickleCliff.002
+    2300008: SickleCliff.003
+    2300010: SickleCliff.004
+    2300012: SickleCliff.005
+    2300014: SickleCliff.006
+    2300016: SickleCliff.007
+    2300018: SickleCliff.008
     3300000: //RootNode
+    3300002: SickleCliff
+    3300004: SickleCliff.001
+    3300006: SickleCliff.002
+    3300008: SickleCliff.003
+    3300010: SickleCliff.004
+    3300012: SickleCliff.005
+    3300014: SickleCliff.006
+    3300016: SickleCliff.007
+    3300018: SickleCliff.008
     4300000: SickleCliff
+    4300002: SickleCliff.008
+    4300004: SickleCliff.007
+    4300006: SickleCliff.006
+    4300008: SickleCliff.005
+    4300010: SickleCliff.004
+    4300012: SickleCliff.003
+    4300014: SickleCliff.002
+    4300016: SickleCliff.001
   externalObjects: {}
   materials:
     importMaterials: 1

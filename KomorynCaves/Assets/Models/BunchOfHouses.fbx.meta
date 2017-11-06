@@ -1,27 +1,26 @@
 fileFormatVersion: 2
-guid: f87daca90c18e6f4d9eca814ce7ee2fd
-timeCreated: 1507078364
-licenseType: Pro
+guid: 552526379750f4f41b1c1e5c40421cbe
+timeCreated: 1509841512
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: RectFloor
+    4300000: HouseBunch
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: ffaaa81182281e4439246868e0fe37d8, type: 2}
+      name: DistantHouse.004
+    second: {fileID: 2100000, guid: 85bb0ff0a231b554ab0927716d617035, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0

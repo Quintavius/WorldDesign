@@ -6,12 +6,21 @@ ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
+    100002: ZBrush_defualt_group
+    100004: ZBrush_defualt_group.001
     400000: //RootNode
+    400002: ZBrush_defualt_group
+    400004: ZBrush_defualt_group.001
     2100000: No Name
     2300000: //RootNode
+    2300002: ZBrush_defualt_group
+    2300004: ZBrush_defualt_group.001
     3300000: //RootNode
+    3300002: ZBrush_defualt_group
+    3300004: ZBrush_defualt_group.001
     4300000: RockPlatform
     4300002: ZBrush_defualt_group
+    4300004: ZBrush_defualt_group.001
   externalObjects: {}
   materials:
     importMaterials: 1

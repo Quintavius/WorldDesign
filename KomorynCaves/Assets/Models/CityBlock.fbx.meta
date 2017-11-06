@@ -1,27 +1,31 @@
 fileFormatVersion: 2
-guid: f87daca90c18e6f4d9eca814ce7ee2fd
-timeCreated: 1507078364
-licenseType: Pro
+guid: eee4d2d056fedc44b8e53df8cf4a5aac
+timeCreated: 1509842586
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
     100000: //RootNode
     400000: //RootNode
-    2100000: No Name
     2300000: //RootNode
     3300000: //RootNode
-    4300000: RectFloor
+    4300000: CityBlock
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: No Name
-    second: {fileID: 2100000, guid: ffaaa81182281e4439246868e0fe37d8, type: 2}
+      name: Default-Material
+    second: {fileID: 2100000, guid: f417432d786d0c045ae7490f4a75cd3d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DistantHouse.005
+    second: {fileID: 2100000, guid: c2363183f4691be49b085cd35e3c79fa, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
